@@ -1,4 +1,4 @@
-# worker-pool
+# Worker Pool
 
 An in-memory worker pool in Go. Submit jobs as `func()` values; a fixed pool of goroutines executes them concurrently from a buffered queue.
 
